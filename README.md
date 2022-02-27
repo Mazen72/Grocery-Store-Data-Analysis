@@ -23,3 +23,4 @@ main goals for this project:
 
 ![alt text](https://github.com/Mazen72/Grocery-Store-Data-Analysis/blob/main/imgs/newplot%20(9).png?raw=true)
 
+ 
